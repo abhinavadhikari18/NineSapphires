@@ -1,0 +1,22 @@
+{
+  "portfolio": [
+    {
+      "id": "portfolio-1",
+      "title": "Gurans Momos",
+      "category": "Restaurant & Café",
+      "image": "gurans.jpg",
+      "url": "gurans-momos.web.app",
+      "description": "Elegant dining website with online reservations and digital menu."
+    }
+  ],
+  "reviews": [
+    {
+      "id": "6a86c950-3fe3-4b80-ac2c-a8d4013b6923",
+      "name": "Bishnu Pandey",
+      "role": "Owner",
+      "rating": 5,
+      "review": " \"NineSapphires completely transformed our online presence. Our sales increased by 40% within the first month. The design is really cool — our customers keep complimenting it.\"",
+      "avatar": "BP"
+    }
+  ]
+}
