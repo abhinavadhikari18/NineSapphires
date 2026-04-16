@@ -16,11 +16,11 @@ const DEFAULT_PORTFOLIO_ITEMS: PortfolioItem[] = [
   },
   {
     id: "portfolio-2",
-    title: "Summit Consulting Group",
-    category: "Consultancy",
-    image: "https://picsum.photos/seed/summit-consult/800/500",
-    url: "#",
-    description: "Prestige-driven corporate site inspiring trust and credibility.",
+    title: "Kohinoor Restaurant",
+    category: "Restaurant & Café",
+    image: "logo.PNG",
+    url: "kohinoor-restaurant.vercel.app",
+    description: "Restaurant Where Peace, Nature & Love Meet",
   },
   {
     id: "portfolio-3",
